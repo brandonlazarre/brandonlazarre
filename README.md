@@ -2,7 +2,8 @@
 <h3 align="center">A junior User Interface Designer and a User Experience Developper from France</h3>
 
 <p align="center">
-<img src="https://img.shields.io/github/last-commit/brandonlazarre/brandonlazarre?style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/brandonlazarre/brandonlazarre?style=flat">
+<img src="https://komarev.com/ghpvc/?username=yusuma&label=Profile%20views&color=0e75b6&style=flat" alt="brandonlazarre" />
 </p>
 
 - 🔭 I’m currently working on [QB Scripts](https://github.com/qb-scripts)
